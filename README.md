@@ -1,5 +1,5 @@
 # Early-Stopping
-ESBM - EarlyStopping customized to your own needs
+# ESBM - EarlyStopping customized to your own needs
 Background This package will be assiting easily you with several training phases:
 
 First, you should define your required metric.
